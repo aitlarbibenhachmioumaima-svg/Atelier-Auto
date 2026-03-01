@@ -187,6 +187,6 @@ StarUml (Outil de diagramme)
 
 ## 👥 Équipe du Projet
 
-- 👩‍💻 **Oumaima Ait Larbi Ben Hachmi**  : (https://github.com/aitlarbibenhachmioumaima-svg) |
+- 👩‍💻 **Oumaima Ait Larbi Ben Hachmi**  : https://github.com/aitlarbibenhachmioumaima-svg
 
-- 👩‍💻 **Najia Zad**  : [@najia](https://github.com/najiazad20) |
+- 👩‍💻 **Najia Zad**  : https://github.com/najiazad20
